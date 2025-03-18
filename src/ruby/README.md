@@ -7,7 +7,7 @@ Develop Ruby based applications. includes everything you need to get up and runn
 
 | Options Id | Description | Type | Default Value |
 |-----|-----|-----|-----|
-| imageVariant | Ruby version (use -bookworm, -bullseye variants on local arm64/Apple Silicon): | string | 3.4-bullseye |
+| imageVariant | Ruby version (use -bookworm, -bullseye variants on local arm64/Apple Silicon): | string | 3.3-bullseye |
 
 This template references an image that was [pre-built](https://containers.dev/implementors/reference/#prebuilding) to automatically include needed devcontainer.json metadata.
 
@@ -17,4 +17,4 @@ This template references an image that was [pre-built](https://containers.dev/im
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-template.json](https://github.com/devcontainers/templates/blob/main/src/ruby/devcontainer-template.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-template.json](https://github.com/gvatsal60/Fork_templates/blob/main/src/ruby/devcontainer-template.json).  Add additional notes to a `NOTES.md`._
