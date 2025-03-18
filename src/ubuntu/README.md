@@ -17,4 +17,4 @@ This template references an image that was [pre-built](https://containers.dev/im
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-template.json](https://github.com/devcontainers/templates/blob/main/src/ubuntu/devcontainer-template.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-template.json](https://github.com/gvatsal60/Fork_templates/blob/main/src/ubuntu/devcontainer-template.json).  Add additional notes to a `NOTES.md`._
