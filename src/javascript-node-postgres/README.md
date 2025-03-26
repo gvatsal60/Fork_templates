@@ -47,4 +47,4 @@ The `ports` property in `docker-compose.yml` [publishes](https://docs.docker.com
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-template.json](https://github.com/devcontainers/templates/blob/main/src/javascript-node-postgres/devcontainer-template.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-template.json](https://github.com/gvatsal60/Fork_templates/blob/main/src/javascript-node-postgres/devcontainer-template.json).  Add additional notes to a `NOTES.md`._
